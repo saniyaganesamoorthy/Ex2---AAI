@@ -1,5 +1,5 @@
-## Enter Name: SANIYA G
-## Enter Register No: 212223240147
+## Name: SANIYA G
+## Register No: 212223240147
 ## Experiment 2
 ## Date:30/20/2026
 
